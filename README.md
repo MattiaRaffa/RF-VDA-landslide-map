@@ -19,3 +19,5 @@ Best importance scores:
 (0.06, 'northness'),
 (0.06, 'SWEmin'),
 (0.06, 'SWEmax')]
+
+![alt text](rf_5trees.png)
