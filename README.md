@@ -20,8 +20,36 @@ GEO = geologia classata
   
 LAND = uso del suolo classato
   
+# run v2
+Shape of x,y train=> (575, 7)
 
-# run 
+Shape of x,y test=> (144, 7) 
+
+RandomForestClassifier {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_impurity_split': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 500, 'n_jobs': 4, 'oob_score': True, 'random_state': None, 'verbose': True, 'warm_start': False}
+
+Training Set F1-Score=> 1.0 
+
+Testing Set F1-Score=> 0.797
+
+Final OOB error:0.202 
+
+Best importance:
+
+0.29, 'DEM 2'
+
+0.24, 'sumSWEabs'
+
+0.15, 'SLOPE'
+
+0.11, 'SWEmin'
+
+0.11, 'ASPECT'
+
+0.07, 'land cover'
+
+0.04, 'GEO'
+
+# run v1
 RandomForestClassifier {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 
                       'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 
                       'min_impurity_decrease': 0.0, 'min_impurity_split': None, 'min_samples_leaf': 1, 
@@ -48,9 +76,9 @@ Best importance scores:
 Last OOB error:
 0.195
 
-![alt text](rf_5trees.png)
+![alt text](v1/rf_5trees.png)
 
-![alt text](Figure_1.png)
+![alt text](v1/Figure_1.png)
 
 
 # data sources
