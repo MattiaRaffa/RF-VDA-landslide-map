@@ -48,9 +48,9 @@ Best importance scores:
 Last OOB error:
 0.195
 
-![alt text](rf_5trees.png)
+![alt text](v1/rf_5trees.png)
 
-![alt text](Figure_1.png)
+![alt text](v1/Figure_1.png)
 
 
 # data sources
