@@ -6,18 +6,21 @@ RandomForestClassifier {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': Non
                       'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 5000, 
                       'n_jobs': 4, 'oob_score': True, 'random_state': None, 'verbose': True, 'warm_start': True}
 
+estimators= 2000
+
 Test accuracy:
-1.0 
+1.0
 
 Best importance scores:
-[(0.22, 'mergeVDA'),
-(0.16, 'sumSWEabs'),
-(0.15, 'slope'),
-(0.14, 'sumSWEpos'),
-(0.08, 'aspect'),
-(0.07, 'SWEmean'),
-(0.06, 'northness'),
-(0.06, 'SWEmin'),
-(0.06, 'SWEmax')]
+[(0.31, 'mergeVDA'), 
+(0.24, 'sumSWEabs'), 
+(0.19, 'slope'), 
+(0.13, 'SWEmin'), 
+(0.12, 'aspect')]
+
+OOB error:
+0.195
 
 ![alt text](rf_5trees.png)
+
+![alt text](Figure_1.png)
