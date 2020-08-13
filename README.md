@@ -49,6 +49,8 @@ Best importance:
 
 0.04, 'GEO'
 
+![alt text](Figure_2.png)
+
 # run v1
 RandomForestClassifier {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 
                       'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 
