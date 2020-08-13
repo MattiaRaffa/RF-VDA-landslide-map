@@ -1,12 +1,19 @@
 # Applicazione statistica del metodo Random Forest allo studio di suscettibilità da frane superficiali in terra nella regione Val D’Aosta
 
 mergeVDA = quota [Digital Elevation Model (DEM) dal geoportale VDA]
+
 slope = pendenza derivata dal DEM
+
 aspect = esposizione del versante derivato dal DEM
+
 curvatura = 
 
+
+
 sumSWEabs = somma dei file  Snow Water Equivalent (SWE)
+
 SWEmin = valori minimi di SWE entro bacini di accumulo
+
 
 
 GEO = geologia classata
@@ -27,10 +34,15 @@ Test accuracy:
 1.0
 
 Best importance scores:
+
 0.31, 'mergeVDA'
+
 0.24, 'sumSWEabs' 
+
 0.19, 'slope' 
+
 0.13, 'SWEmin' 
+
 0.12, 'aspect'
 
 Last OOB error:
@@ -43,8 +55,13 @@ Last OOB error:
 
 # data sources
 cf.regione.vda.it
+
 catastodissesti.partout.it/#
+
 mappe.regione.vda.it/pub/geodissesti
+
 geologiavda.partout.it/GeoCartaGeo?l=it
+
 geoportale.regione.vda.it/mappe/
+
 arpa.vda.it/it
