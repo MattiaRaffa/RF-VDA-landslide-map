@@ -50,9 +50,11 @@ Best importance:
 0.04, 'GEO'
 
 ![alt text](Figure_2.png)
+
 -OOb error graph
 
 ![alt text](result_proba1.png)
+
 -500x500 probability of landslide map-
 
 # run v1
