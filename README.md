@@ -50,9 +50,10 @@ Best importance:
 0.04, 'GEO'
 
 ![alt text](Figure_2.png)
+-OOb error graph
 
-500x500 probability of landslide map
 ![alt text](result_proba1.png)
+-500x500 probability of landslide map-
 
 # run v1
 RandomForestClassifier {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 
