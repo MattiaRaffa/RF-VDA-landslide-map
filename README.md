@@ -88,6 +88,19 @@ Last OOB error:
 
 ![alt text](v1/Figure_1.png)
 
+#cite
+
+Raffa, M., Camera, C.A.S., Bajni, G., 2020. Il ruolo della neve nell’innesco di frane superficiali valutato con random forest:  il caso del Mont Cervin e del Mont Emilius in Valle D’Aosta (Tesi di Laurea Magistrale in Geologia Applicata al Territorio, all’Ambiente e alle Risorse Idriche). Università degli Studi di Milano.
+
+
+@phdthesis{raffa_il_2020,
+	type = {Tesi di {Laurea} {Magistrale} in {Geologia} {Applicata} al {Territorio}, all’{Ambiente} e alle {Risorse} {Idriche}},
+	title = {Il ruolo della neve nell'innesco di frane superficiali valutato con random forest:  il caso del {Mont} {Cervin} e del {Mont} {Emilius} in {Valle} {D}'{Aosta}},
+	language = {it},
+	school = {Università degli Studi di Milano},
+	author = {Raffa, Mattia and Camera, Corrado A. S. and Bajni, Greta},
+	year = {2020}
+}
 
 # data sources
 cf.regione.vda.it
