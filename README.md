@@ -92,6 +92,7 @@ Last OOB error:
 
 Raffa, M., Camera, C.A.S., Bajni, G., 2020. Il ruolo della neve nell’innesco di frane superficiali valutato con random forest:  il caso del Mont Cervin e del Mont Emilius in Valle D’Aosta (Tesi di Laurea Magistrale in Geologia Applicata al Territorio, all’Ambiente e alle Risorse Idriche). Università degli Studi di Milano.
 
+# resources
 https://github.com/PAULGOYES/Landslide_RL_MLP_DNN
 
 Para el uso debido de la información se recomienda usar la siguiente cita: P. Goyes-Peñafiel y A. Hernandez-Rojas (2020). Doble evaluación de la susceptibilidad por movimientos en masa basados en la solución del problema de clasificación con redes neuronales artificiales y Pesos de Evidencia. https://zenodo.org/badge/latestdoi/250913053
