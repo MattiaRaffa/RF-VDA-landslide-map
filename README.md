@@ -1,5 +1,7 @@
 # Applicazione statistica del metodo Random Forest allo studio di suscettibilità da frane superficiali in terra nella regione Val D’Aosta
 
+![alt text](v1/workflow.png)
+
 mergeVDA = quota [Digital Elevation Model (DEM) dal geoportale VDA]
 
 slope = pendenza derivata dal DEM
@@ -87,6 +89,9 @@ Last OOB error:
 ![alt text](v1/rf_5trees.png)
 
 ![alt text](v1/Figure_1.png)
+
+# final product
+![alt text](v1/map.png)
 
 # cite
 
