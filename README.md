@@ -103,14 +103,14 @@ https://github.com/PAULGOYES/Landslide_RL_MLP_DNN
 Para el uso debido de la información se recomienda usar la siguiente cita: P. Goyes-Peñafiel y A. Hernandez-Rojas (2020). Doble evaluación de la susceptibilidad por movimientos en masa basados en la solución del problema de clasificación con redes neuronales artificiales y Pesos de Evidencia. https://zenodo.org/badge/latestdoi/250913053
 
 # data sources
-cf.regione.vda.it
+www.cf.regione.vda.it
 
-catastodissesti.partout.it/#
+www.catastodissesti.partout.it/#
 
-mappe.regione.vda.it/pub/geodissesti
+www.mappe.regione.vda.it/pub/geodissesti
 
-geologiavda.partout.it/GeoCartaGeo?l=it
+www.geologiavda.partout.it/GeoCartaGeo?l=it
 
-geoportale.regione.vda.it/mappe/
+www.geoportale.regione.vda.it/mappe/
 
-arpa.vda.it/it
+www.arpa.vda.it/it
