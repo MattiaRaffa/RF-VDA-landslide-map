@@ -1,6 +1,7 @@
 # Applicazione statistica del metodo Random Forest allo studio di suscettibilità da frane superficiali in terra nella regione Val D’Aosta
 
-[!(https://zenodo.org/badge/doi/10.5281/zenodo.18914.svg)]
+![DOI](DOI.svg)
+
 
 ![alt text](workflow.png)
 
