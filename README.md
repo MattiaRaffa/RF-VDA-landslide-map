@@ -1,9 +1,22 @@
-# Applicazione statistica del metodo Random Forest allo studio di suscettibilità da frane superficiali in terra nella regione Val D’Aosta
+# Applicazione statistica del metodo Random Forest allo studio di suscettibilità da frane superficiali in terra nella regione Val D’Aosta <img src="DOI.svg"  align="right" /></a>
 
-![DOI](DOI.svg)
+ # :pushpin: Table of contents
+<!--ts-->
+* [About](#About)
+* [Workflow](#Workflow)
+* [Final product](#Finalproduct)
+* [Cite](#Cite)
+* [Resources](#Resources)
+* [Data sources](#Datasources)
+<!--te-->
 
+# ℹ️ About
+
+# ↘️ Workflow
 
 ![alt text](workflow.png)
+
+
 
 mergeVDA = quota [Digital Elevation Model (DEM) dal geoportale VDA]
 
@@ -93,19 +106,19 @@ Last OOB error:
 
 ![alt text](v1/Figure_1.png)
 
-# final product
+# 🗺️ Final product
 ![alt text](map.png)
 
-# cite
+# 📃 Cite
 
 Raffa, M., Camera, C.A.S., Bajni, G., 2020. Il ruolo della neve nell’innesco di frane superficiali valutato con random forest:  il caso del Mont Cervin e del Mont Emilius in Valle D’Aosta (Tesi di Laurea Magistrale in Geologia Applicata al Territorio, all’Ambiente e alle Risorse Idriche). Università degli Studi di Milano.
 
-# resources
+# 📦 Resources
 https://github.com/PAULGOYES/Landslide_RL_MLP_DNN
 
 Para el uso debido de la información se recomienda usar la siguiente cita: P. Goyes-Peñafiel y A. Hernandez-Rojas (2020). Doble evaluación de la susceptibilidad por movimientos en masa basados en la solución del problema de clasificación con redes neuronales artificiales y Pesos de Evidencia. https://zenodo.org/badge/latestdoi/250913053
 
-# data sources
+# Data sources
 www.cf.regione.vda.it
 
 www.catastodissesti.partout.it/#
