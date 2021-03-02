@@ -1,4 +1,5 @@
-# Applicazione statistica del metodo Random Forest allo studio di suscettibilità da frane superficiali in terra nella regione Val D’Aosta <img src="DOI.svg"  align="right" /></a>
+# Applicazione statistica del metodo Random Forest allo studio di suscettibilità da frane superficiali in terra nella regione Val D’Aosta 
+<img src="DOI.svg"  align="right" /></a>
 
  # :pushpin: Table of contents
 <!--ts-->
