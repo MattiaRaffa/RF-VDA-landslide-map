@@ -1,5 +1,8 @@
 # Shallow landslide susceptibility analysis using Random Forest method in Val D'Aosta Valley
-<img src="DOI.svg"  height="25" align="right" /></a>
+<a href="https://www.journals.elsevier.com/science-of-the-total-environment" target="_blank"> 
+	<img src="DOI.svg" alt="Under review" height="25" align="right" />
+</a>
+
 
  # :pushpin: Table of contents
 <!--ts-->
@@ -40,7 +43,7 @@ GEO = geologia classata
   
 LAND = uso del suolo classato
   
-# run v2
+# ⚙️ run v2
 Shape of x,y train=> (575, 7)
 
 Shape of x,y test=> (144, 7) 
@@ -77,7 +80,7 @@ Best importance:
 
 -500x500 probability of landslide map-
 
-# run v1
+# ⚙️ run v1
 RandomForestClassifier {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 
                       'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 
                       'min_impurity_decrease': 0.0, 'min_impurity_split': None, 'min_samples_leaf': 1, 
