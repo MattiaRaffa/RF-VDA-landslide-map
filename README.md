@@ -128,6 +128,20 @@ Raffa, M., Camera, C.A.S., Bajni, G., 2020. Il ruolo della neve nell’innesco d
 	year = {2020}
 }
 ```
+Camera, C.A.S., Bajni, G., Corno, I., Raffa, M., Stevenazzi, S., Apuani, T., 2021. Introducing intense rainfall and snowmelt variables to implement a process-related non-stationary shallow landslide susceptibility analysis. Science of The Total Environment. https://doi.org/10.1016/j.scitotenv.2021.147360
+
+```sourceCode
+@article{camera_introducing_2021,
+	title = {Introducing intense rainfall and snowmelt variables to implement a process-related non-stationary shallow landslide susceptibility analysis},
+	issn = {0048-9697},
+	url = {https://www.sciencedirect.com/science/article/pii/S0048969721024311},
+	doi = {https://doi.org/10.1016/j.scitotenv.2021.147360},
+	journal = {Science of The Total Environment},
+	author = {Camera, Corrado A. S. and Bajni, Greta and Corno, Irene and Raffa, Mattia and Stevenazzi, Stefania and Apuani, Tiziana},
+	year = {2021},
+	keywords = {Aosta Valley, Climate variables, Flowslides, Generalized Additive Models, Slides in soil, Snow Water Equivalent}
+}
+ ```
 
 # 📦 Resources
 https://github.com/PAULGOYES/Landslide_RL_MLP_DNN
