@@ -1,6 +1,6 @@
 # Shallow landslide susceptibility analysis using Random Forest method in Val D'Aosta Valley
-<a href="https://www.journals.elsevier.com/science-of-the-total-environment"> 
-	<img src="DOI.svg" alt="Under review" height="25" align="right" />
+<a href="https://doi.org/10.1016/j.scitotenv.2021.147360"> 
+	<img src="DOI.svg" alt="Published" height="25" align="right" />
 </a>
 
 
