@@ -4,15 +4,7 @@
 </a>
 
 
- # :pushpin: Table of contents
-<!--ts-->
-* [About](#About)
-* [Workflow](#Workflow)
-* [Final product](#Finalproduct)
-* [Cite](#Cite)
-* [Resources](#Resources)
-* [Data sources](#Datasources)
-<!--te-->
+
 
 # ℹ️ About
 The aim of our study was to derive a susceptibility model adaptable to climate changes, through the inclusion of variables summarizing intense rainfall and snowmelt processes. We selected the territory of the Mont-Emilius and Mont-Cervin Mountain Communities (northern Italy) as study area. To define the summary variables, we investigated the relationships between landslide occurrences and meteorological events (reference period 1991-2020). For landslide susceptibility mapping, we set up a Generalized Additive Model. For model training, we extracted from the local inventory 298 dated landslide points and we selected 300 random non-landslide points. We defined a reference model through variable penalization (relief, NDVI, land cover and geology predictors).
